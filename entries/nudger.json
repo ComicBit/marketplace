@@ -1,0 +1,12 @@
+{
+  "id": "nudger",
+  "displayName": "Nudger",
+  "description": "Keep unfinished agent work moving without continuing past a blocker or a request for permission. Control automatic continuation from each thread’s composer, and review recorded nudges, estimated Jev costs, and threads needing attention. Starts in observation-only mode; automatic continuation requires your own TypeSafe account and paid Jev API credential.",
+  "icon": { "url": "./icons/nudger-fd4281cc.svg" },
+  "tags": ["auto-continue", "agent-monitoring", "blockers", "jev", "statistics"],
+  "author": { "name": "ComicBit", "github": "ComicBit", "url": "https://github.com/ComicBit" },
+  "category": "tasks-and-workflows",
+  "source": { "git": { "url": "https://github.com/ComicBit/bb-plugin-nudger.git", "range": "^0.1.0" } },
+  "screenshots": ["./screenshots/nudger/statistics.png", "./screenshots/nudger/settings.png"],
+  "overview": "./overview/nudger.md"
+}
